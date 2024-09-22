@@ -5,8 +5,9 @@
   </a>
 </div>
 
+<br>
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
-
+<br>
 
 <h3 align="left">Connections!</h3>
 
@@ -14,11 +15,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color:FFF)](https://www.linkedin.com/in/thiago-silva-0254b2243/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF6&color:FFF)](https://www.instagram.com/thiaagosx/)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/thiago-silva-0254b2243/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-</div>
+<br>
+<br>
+<br>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Thiaagosil&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
