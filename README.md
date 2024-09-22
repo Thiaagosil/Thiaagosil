@@ -1,4 +1,11 @@
-Hi there, I'm Thiago.
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=white&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hey+,+I'm +Thiago+!" alt="Typing SVG">
+  </a>
+</div>
+
+
 
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
 - 📫 Email: 2005thiagosilva@gmail.com
