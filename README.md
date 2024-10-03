@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF6&color:FFF)](https://www.instagram.com/thiaagosx/)
 
 <br>
-<br>
+
 
 <h3 align="left">Tech!</h3>
 
@@ -37,10 +37,6 @@
 
 
 <h2 align="center">Stats!</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Thiaagosil&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiaagosil" alt="thiaagosil" /></a> </p>
