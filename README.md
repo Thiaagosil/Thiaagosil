@@ -44,21 +44,3 @@
 ![Thiaagosil's Stats](https://github-readme-stats.vercel.app/api?username=Thiaagosil&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br>
 ![Thiaagosil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thiaagosil&theme=tokyonight&hide_border=false)
 </picture>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiaagosil" alt="thiaagosil" /></a> </p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
