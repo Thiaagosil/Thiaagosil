@@ -39,6 +39,12 @@
 <h2 align="center">Stats!</h2>
 
 
+<picture align="center">
+
+![Thiaagosil's Stats](https://github-readme-stats.vercel.app/api?username=Thiaagosil&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br>
+![Thiaagosil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thiaagosil&theme=tokyonight&hide_border=false)
+</picture>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiaagosil" alt="thiaagosil" /></a> </p>
 
 
