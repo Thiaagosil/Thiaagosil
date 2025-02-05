@@ -6,8 +6,9 @@
 </div>
 
 <br>
--Hi! I'm a tech enthusiast and Software Engineering student. I’m passionate about coding, solving problems, and creating innovative solutions. If you’re looking for someone who loves turning ideas into reality, let’s connect! 
 
+-Hi! I'm a tech enthusiast and Software Engineering student. I’m passionate about coding, solving problems, and creating innovative solutions. If you’re looking for someone who loves turning ideas into reality, let’s connect! 
+<br>
 
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
 <br>
