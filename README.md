@@ -5,6 +5,10 @@
   </a>
 </div>
 
+Brazillian Engineer Software student at UnB
+
+
+
 <br>
 
 -Hi! I'm a tech enthusiast and Software Engineering student. I’m passionate about coding, solving problems, and creating innovative solutions. If you’re looking for someone who loves turning ideas into reality, let’s connect! 
