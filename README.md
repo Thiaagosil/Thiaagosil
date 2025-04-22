@@ -1,18 +1,20 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=white&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hey+,+I'm +Thiago+!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=white&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hey+,+I'm+Thiago+!" alt="Typing SVG">
   </a>
 </div>
 
-Brazillian Engineer Software student at UnB
+<h3 align="center"><strong>🇧🇷 Brazilian <span style="color:#fca311">Software Engineering</span> student at <span style="color:#00b4d8">UnB</span></strong></h3>
 
+---
 
+Hi! 👋 I'm a tech enthusiast and Software Engineering student.  
+I'm passionate about **coding**, **solving problems**, and **creating innovative solutions**.  
+If you’re looking for someone who loves turning ideas into reality — **let’s connect!** 🚀
 
-<br>
+---
 
--Hi! I'm a tech enthusiast and Software Engineering student. I’m passionate about coding, solving problems, and creating innovative solutions. If you’re looking for someone who loves turning ideas into reality, let’s connect! 
-<br>
+📌 &nbsp;Feel free to explore my repositories or reach out for collaboration!
 
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
 <br>
