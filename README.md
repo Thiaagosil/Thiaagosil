@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center"><strong>🇧🇷 Brazilian <span style="color:#fca311">Software Engineering</span> student at <span style="color:#00b4d8">UnB</span></strong></h3>
+<h3 align="center"><strong> Brazilian <span style="color:#fca311">Software Engineering</span> student at <span style="color:#00b4d8">UnB</span></strong></h3>
 
 ---
 
