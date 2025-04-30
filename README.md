@@ -16,7 +16,7 @@ If you’re looking for someone who loves turning ideas into reality — **let�
 
 📌 &nbsp;Feel free to explore my repositories or reach out for collaboration!
 
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
+- 🌱 I’m currently learning C.
 <br>
 
 #
